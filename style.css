@@ -13,9 +13,16 @@ html {
   font-family: sans-serif;
 }
 
+header, ion-icon {
+  font-size: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
 main {
   display: flex;
-  height: 100vh;
+  height: 95vh;
   align-items: center;
   flex-direction: column;
   justify-content: center;
