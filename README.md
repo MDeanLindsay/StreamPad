@@ -8,4 +8,4 @@ Use a submixer and connect to mic input. Stream Deck is over rated.
 
 
 
-![It ain't much, but it's honest work.](https://imgur.com/a/G1Bqmd4)
+![It ain't much, but it's honest work.](https://i.imgur.com/OuAXqTg.png)
