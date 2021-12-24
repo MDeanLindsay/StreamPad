@@ -1,10 +1,10 @@
-# [StreamPad](https://https://stream-pad.vercel.app/)
+# [StreamPad](https://stream-pad.vercel.app/)
 
-Lofi soundboard. No brain cells needed to operate.
+Lofi soundboard. Minimal brain cells needed to use/clone/customize.
 
 Click a key with your mouse or keyboard to start. Space bar to mute.
 
-Just use a submixer and connect to mic input. 
+Use a submixer and connect to mic input. Stream Deck is over rated.
 
 
 
